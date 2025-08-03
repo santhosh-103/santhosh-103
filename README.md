@@ -1,36 +1,51 @@
-# 👋 Hi, I'm Santhosh Kumar!
+# 👋 Hi, I'm Santhosh – Full-Stack Web Developer
 
-🎓 I'm a Computer Science student passionate about **Web Development** and building user-friendly web applications.
-
----
-
-## 💻 Tech Stack
-
-- 🌐 **Frontend:** HTML, CSS, JavaScript, ReactJS, Bootstrap  
-- 💾 **Backend/Database:** MySQL  
-- ☕ **Languages:** Java, Python
+🛠️ I'm a Computer Science student (B.E. CSE, graduating 2026) passionate about crafting interactive, user-friendly websites and applications. Whether it's building robust backend systems, designing sleek frontends, or diving into new tech trends, I love turning ideas into code!
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently learning and building projects in full-stack web development  
-- 🌱 Always eager to explore new technologies and improve my coding skills  
-- 💬 Ask me about anything related to **web dev** or **Java programming**
+- 🎓 B.E. in Computer Science and Engineering
+- 🔭 Currently Learning : Java & DSA
+- 🎮 Hobbies: Coding, Web Development
 
 ---
 
-## 📫 Contact
+## 💻 Tech Stack
 
-- 📧 Email: *santhosh00cse@gmail.com*  
-- 🔗 LinkedIn: [linkedin.com/in/santhosh210](https://linkedin.com/in/yourusername)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=santhosh&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 🏅 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=santhosh&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santhosh210)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhosh-103)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/santhosh-10)  
+📧 **Email:** santhosh00cse@gmail.com
+
+---
+
+> _“First, solve the problem. Then, write the code.”_ – John Johnson
