@@ -23,7 +23,7 @@
 ## 📫 Contact
 
 - 📧 Email: *santhosh00cse@gmail.com*  
-- 🔗 LinkedIn: [linkedin.com/in/santhosh00cse](https://linkedin.com/in/yourusername)
+- 🔗 LinkedIn: [linkedin.com/in/santhosh210](https://linkedin.com/in/yourusername)
 
 ---
 
