@@ -58,7 +58,7 @@ I'm a Computer Science student (B.E. CSE, graduating 2026) passionate about craf
   <a href="https://leetcode.com/santhosh-10" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title="LeetCode" alt="LeetCode" width="50" height="50"/>
   </a>&nbsp;&nbsp;
-  <a href="santhosh00cse@gmail.com" target="_blank">
+  <a href="mailto:santhosh00cse@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" title="Email" alt="Email" width="50" height="50"/>
   </a>
 </p>
