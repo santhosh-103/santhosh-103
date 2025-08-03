@@ -29,9 +29,9 @@ I'm a Computer Science student (B.E. CSE, graduating 2026) passionate about craf
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=santhosh&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh-103&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-103&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=santhosh-103&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
