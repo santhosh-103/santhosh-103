@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Santhosh Kumar!
 
-<!--
-**santhosh-103/santhosh-103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student passionate about **Web Development** and building user-friendly web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- 🌐 **Frontend:** HTML, CSS, JavaScript, ReactJS, Bootstrap  
+- 💾 **Backend/Database:** MySQL  
+- ☕ **Languages:** Java, Python
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently learning and building projects in full-stack web development  
+- 🌱 Always eager to explore new technologies and improve my coding skills  
+- 💬 Ask me about anything related to **web dev** or **Java programming**
+
+---
+
+## 📫 Contact
+
+- 📧 Email: *santhosh00cse@gmail.com*  
+- 🔗 LinkedIn: [linkedin.com/in/santhosh00cse](https://linkedin.com/in/yourusername)
+
+---
+
+## 📊 GitHub Stats
+
+![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh&show_icons=true&theme=radical)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
