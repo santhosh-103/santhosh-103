@@ -1,14 +1,16 @@
-# 👋 Hi, I'm Santhosh Kumar – Web Developer
+# 👋 Hi, I'm Santhosh – Web Developer
 
-🛠️ I'm a Computer Science student (B.E. CSE, graduating 2026) passionate about crafting interactive, user-friendly websites and applications. Whether it's building robust backend systems, designing sleek frontends, or diving into new tech trends, I love turning ideas into code!
+I'm a Computer Science student (B.E. CSE, graduating 2026) passionate about crafting interactive, user-friendly websites and applications. I enjoy building responsive frontends, exploring new web technologies, and bringing creative designs to life through code.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 B.E. in Computer Science and Engineering
-- 🔭 Currently Learning : Java & DSA
+- 🔭 Currently Learning: Java & DSA
+- 💬 Open to discussions about **Web Development, JavaScript, or Frontend Tools**
 - 🎮 Hobbies: Coding, Web Development
+- 😄 Fun Fact: *“First, solve the problem. Then, write the code.”*
 
 ---
 
@@ -41,11 +43,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santhosh210)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhosh-103)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/santhosh-10)  
-📧 **Email:** santhosh00cse@gmail.com
-
----
-
-> _“First, solve the problem. Then, write the code.”_ – John Johnson
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santhosh210)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhosh-103)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/santhosh-10)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhosh00cse@gmail.com)
