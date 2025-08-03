@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Santhosh – Web Developer
+# 👋 Hi, I'm Santhosh Kumar – Web Developer
 
 I'm a Computer Science student (B.E. CSE, graduating 2026) passionate about crafting interactive, user-friendly websites and applications. I enjoy building responsive frontends, exploring new web technologies, and bringing creative designs to life through code.
 
@@ -6,11 +6,11 @@ I'm a Computer Science student (B.E. CSE, graduating 2026) passionate about craf
 
 ## 🚀 About Me
 
-- 🎓 B.E. in Computer Science and Engineering (VSBCETC, 2026)
-- 🔭 Currently Learning: Angular.js, MERN Stack, Spring Boot & UI/UX
+- 🎓 B.E. in Computer Science and Engineering
+- 🔭 Currently Learning: Java & DSA
 - 💬 Open to discussions about **Web Development, JavaScript, or Frontend Tools**
-- 🎮 Hobbies: Coding, Poster/Video Editing, Game Development
-- 😄 Fun Fact: *“First, solve the problem. Then, write the code.”* – John Johnson
+- 🎮 Hobbies: Coding, Web Development
+- 😄 Fun Fact: *“First, solve the problem. Then, write the code.”*
 
 ---
 
@@ -34,31 +34,31 @@ I'm a Computer Science student (B.E. CSE, graduating 2026) passionate about craf
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=santhosh&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh-103&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-103&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=santhosh-103&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
 ## 🏅 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=santhosh&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=santhosh-103&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/santhosh210" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/>
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/santhosh" target="_blank">
+  <a href="https://github.com/santhosh-103" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
   </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/yourusername" target="_blank">
+  <a href="https://leetcode.com/santhosh-10" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title="LeetCode" alt="LeetCode" width="50" height="50"/>
   </a>&nbsp;&nbsp;
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="santhosh00cse@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" title="Email" alt="Email" width="50" height="50"/>
   </a>
 </p>
