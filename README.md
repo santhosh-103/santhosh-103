@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Santhosh – Web Developer
+# 👋 Hi, I'm Santhosh Kumar – Web Developer
 
 I'm a Computer Science student (B.E. CSE, graduating 2026) passionate about crafting interactive, user-friendly websites and applications. I enjoy building responsive frontends, exploring new web technologies, and bringing creative designs to life through code.
 
