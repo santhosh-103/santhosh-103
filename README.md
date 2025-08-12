@@ -34,8 +34,8 @@ I'm a Computer Science student (B.E. CSE, graduating 2026) passionate about craf
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh-103&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-103&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhosh-103&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-103&layout=compact&theme=tokyonight)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=santhosh-103&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
@@ -57,6 +57,9 @@ I'm a Computer Science student (B.E. CSE, graduating 2026) passionate about craf
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/santhosh-10" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title="LeetCode" alt="LeetCode" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" title="HackerRank" alt="HackerRank" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:santhosh00cse@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" title="Email" alt="Email" width="50" height="50"/>
