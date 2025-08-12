@@ -58,7 +58,7 @@ I'm a Computer Science student (B.E. CSE, graduating 2026) passionate about craf
   <a href="https://leetcode.com/santhosh-10" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title="LeetCode" alt="LeetCode" width="50" height="50"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME" target="_blank">
+  <a href="https://www.hackerrank.com/santhosh00cse" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" title="HackerRank" alt="HackerRank" width="50" height="50"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:santhosh00cse@gmail.com" target="_blank">
