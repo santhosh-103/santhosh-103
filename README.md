@@ -52,9 +52,7 @@ I'm a Computer Science student (B.E. CSE, graduating 2026) passionate about craf
   <a href="https://linkedin.com/in/santhosh210" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="50" height="50"/>
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/santhosh-103" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
-  </a>&nbsp;&nbsp;
+  
   <a href="https://leetcode.com/santhosh-10" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title="LeetCode" alt="LeetCode" width="50" height="50"/>
   </a>&nbsp;&nbsp;
