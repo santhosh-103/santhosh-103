@@ -50,7 +50,7 @@ I'm a Computer Science student (B.E. CSE, graduating 2026) passionate about craf
 
 ## 🌟 Featured Projects  
 
-- 🚀 [Portfolio Website](https://github.com/santhosh-103/portfolio) – My personal portfolio built with React & Bootstrap  
+- 🚀 [Portfolio Website](https://github.com/santhosh-103/portfolio) – My personal portfolio built with Javascript & Bootstrap  
 - 📸 [Instagram Clone](https://github.com/santhosh-103/INSTAGRAM-Clone) – A social media clone with post, like & comment features  
 - 🛒 [E-Commerce Website](https://github.com/santhosh-103/e-commerce) – A full-featured online shopping platform  
 
