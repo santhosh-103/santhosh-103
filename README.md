@@ -13,7 +13,6 @@ I love building **responsive frontends**, **RESTful backends**, and solving prob
 - 💻 Aspiring **Java Full Stack Developer**  
 - 🔭 Currently Learning: **Java, Spring Boot & DSA**  
 - 💬 Ask me about **Java, Spring Boot, React, Web Development**  
-- 🎯 Goal: Crack **high-package campus placements**  
 - 😄 Fun Fact: *“First, solve the problem. Then, write the code.”*
 
 ---
