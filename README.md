@@ -58,6 +58,25 @@ React, Node.js, Express.js, MongoDB
 
 ---
 
+### 📸 Instagram Clone
+
+🔗 Live: https://instagram-clone-lime-five.vercel.app/
+
+🔗 GitHub: https://github.com/santhosh-103/Instagram_Clone
+
+**Features**
+- Instagram-style Feed
+- Stories Feature
+- Profile Management
+- Follow / Unfollow System
+- REST API Integration
+- Responsive UI
+
+**Tech Stack**
+React.js, Vite, Axios, JSON Server, React Router, Render, Vercel
+
+---
+
 ### 🌱 EcoRAIZ - Smart Planting Platform
 
 🔗 Live: https://ecoraiz.netlify.app/
@@ -85,7 +104,7 @@ React, Node.js, Express.js, MongoDB
 - Project Showcase
 - Certifications Section
 - Coding Profiles
-- Contact Form with Email Integration
+- Contact Form Integration
 
 ---
 
@@ -141,9 +160,10 @@ React, Node.js, Express.js, MongoDB
 
 ## 🏆 Achievements
 
-- 🔥 400+ LeetCode Problems Solved
-- 🚀 Built & Deployed Multiple MERN Stack Projects
-- 💻 Active Open Source & Project Development
+- 🔥 Solved 400+ LeetCode Problems
+- 📅 Maintained 200+ Day LeetCode Streak
+- 🚀 Built & Deployed 5+ Full Stack Projects
+- 💻 Developed MERN E-Commerce, AI Interview Platform & Instagram Clone
 - 📚 Continuous Learner & Problem Solver
 
 ---
@@ -152,20 +172,26 @@ React, Node.js, Express.js, MongoDB
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/santhosh210/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+<a href="https://www.linkedin.com/in/santhosh210/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="60" />
 </a>
 
-<a href="https://leetcode.com/u/Santhosh-10/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/santhosh-103" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="60" />
 </a>
 
-<a href="https://www.hackerrank.com/profile/santhosh00cse">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="45"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/Santhosh-10/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="60" />
 </a>
 
-<a href="mailto:santhosh00cse@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/profile/santhosh00cse" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="60" />
 </a>
 
 </p>
